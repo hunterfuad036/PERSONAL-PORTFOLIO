@@ -437,6 +437,7 @@ section {
 
 .details-container h2 p {
   color: var(--bg-color);
+}
 
 .section-container {
   gap: 4rem;
